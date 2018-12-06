@@ -1,0 +1,10 @@
+video::cue {
+  background-color: #031a03;
+  color: #f8a825;
+}
+
+video::cue(#\4) {
+  color: #f8a825;
+    background-color: #031a03;
+    font-weight:bold;
+}
